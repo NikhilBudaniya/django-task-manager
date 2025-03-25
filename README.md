@@ -28,13 +28,15 @@ A REST API for task management built with Django and Django REST Framework. This
 2. Create and activate a virtual environment:
    ```bash
    python -m venv .venv
-   # On macOS
+   # On macOS/Linux
    source .venv/bin/activate
+   # On Windows
+   .venv\Scripts\activate
    ```
 
 3. Install dependencies:
    ```bash
-   pip install django djangorestframework
+   pip install -r requirements.txt
    ```
 
 ### Database Setup
