@@ -21,7 +21,7 @@ A REST API for task management built with Django and Django REST Framework. This
 
 1. Clone the repository:
    ```bash
-   git clone [<repository-url>](https://github.com/NikhilBudaniya/django-task-manager.git)
+   git clone https://github.com/NikhilBudaniya/django-task-manager.git
    cd djangoTasks
    ```
 
