@@ -402,7 +402,7 @@ python manage.py test --keepdb
 - **Admin User**:
   - Email: admin@example.com
   - Password: Admin@123
-  - Name: admin
+  - Name: Admin
   - Mobile: 1234567890
 
 - **Regular User**:
