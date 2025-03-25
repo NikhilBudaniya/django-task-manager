@@ -90,15 +90,15 @@ After creating a superuser, you can access the Django admin interface to manage 
 All valid task types:
 - `feature` - New feature implementation
 - `bug` - Bug fix
-- `enhancement` - Improvement to existing feature
-- `maintenance` - Code cleanup, refactoring, etc.
+- `improvement` - Improvement to existing feature
+- `task` - Normal task
+
 
 ### Task Statuses
 All valid task statuses:
 - `pending` - Task not started yet
 - `in_progress` - Task is being worked on
 - `completed` - Task is finished
-- `cancelled` - Task has been cancelled
 
 ## API Documentation
 
